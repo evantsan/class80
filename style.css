@@ -1,0 +1,20 @@
+#sr{
+    display: none;
+}
+#ary{
+    background-color: crimson;
+    border: 2px solid black;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+#ary1{
+    background-color:springgreen;
+    border: 2px solid black;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+h3{
+    display: inline;
+}
